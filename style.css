@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+   font-family: cursive;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.26);
+}
+
+ul li {
+    margin: 25px;
+    text-align: left;
+}
+
+ol li {
+    margin: 25px;
+    color: chartreuse;
+}
+
